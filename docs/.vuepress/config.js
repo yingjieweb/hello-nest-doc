@@ -3,6 +3,7 @@ module.exports = {
   description: "A documentation website for Hello Nest.",
   base: "/hello-nest-doc/",
   themeConfig: {
+    logo: "/images/logo.png",
     nav: [
       {
         text: "GitHub",
