@@ -12,14 +12,7 @@ module.exports = {
     ],
     sidebar: [
       ["/", "前言"],
-      {
-        title: "Nest.js 介绍",
-        children: [
-          ["/concept/expandable/", "可扩展？"],
-          ["/concept/express/", "Express？"],
-          ["/concept/advantage/", "哪些优势？"],
-        ],
-      },
+      ["/concept/", "Nest.js 介绍"],
       {
         title: "Hello World!",
         children: [
