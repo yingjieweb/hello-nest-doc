@@ -58,7 +58,7 @@ export class AuthMiddleware implements NestMiddleware {
 
 - 数据库集成：Nest.js 与多种数据库集成框架（如TypeORM、Mongoose等）兼容，这使得在应用程序中使用数据库变得更加容易，并且可以方便地进行扩展和迁移。
 
-## 构建在 Express 之上
+##  基于 Express 构建？
 [Express.js](https://expressjs.com/) 是一个基于 Node.js 的 Web 应用程序框架，可以被视为对 Node.js 的封装。Express.js 提供了简化和抽象化的 API，使得在 Node.js 上构建 Web 应用程序变得更加<u>简单和高效</u>。
 
 Node.js 本身提供了处理网络请求和构建 Web 服务器的能力，但它的 API 相对底层，需要开发者手动处理很多细节。<u>而 Express.js 通过封装 Node.js 的功能，提供了更高层次的抽象和开发工具，使得构建 Web 应用程序变得更加便捷</u>。
@@ -90,16 +90,18 @@ app.listen(3000);
 Nest.js 基于 Express.js 提供了更高层次的抽象和功能扩展。它引入了一些新的概念，<u>如模块、控制器和中间件</u>，以帮助开发者更好地组织和管理代码。Nest.js 还提供了一套强大的<u>依赖注入系统</u>，可以帮助解耦组件之间的依赖关系，并方便进行单元测试。
 
 ## Nest.js 优势？
-TypeScript 支持 → [题外话：一定是优势吗？](https://juejin.cn/post/7218117377052377143)
+- TypeScript 支持 → [题外话：一定是优势吗？](https://juejin.cn/post/7218117377052377143)
 
-无缝集成：直接使用 npm 安装常用的库
+- 无缝集成：直接使用 npm 安装常用的库
 
-模块化架构
+- 模块化架构
 
-依赖注入
+- 依赖注入
 
-强大的路由系统
+- 强大的路由系统
 
-内置的中间件支持
+- 内置的中间件支持
 
-生态系统和插件...
+- 生态系统和插件
+
+... 
