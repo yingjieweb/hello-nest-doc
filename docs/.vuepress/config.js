@@ -6,6 +6,10 @@ module.exports = {
     logo: "/images/logo.png",
     nav: [
       {
+        text: "Author",
+        link: "https://github.com/yingjieweb",
+      },
+      {
         text: "GitHub",
         link: "https://github.com/yingjieweb/hello-nest",
       },
