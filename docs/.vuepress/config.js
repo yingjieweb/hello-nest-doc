@@ -24,14 +24,7 @@ module.exports = {
           ["/practice/init/", "脚手架安装 & 项目初始化"],
           ["/practice/intro/", "目录结构 & 文件介绍"],
           ["/practice/decorators/", "相关装饰器介绍"],
-          {
-            title: "CRUD 接口实现",
-            children: [
-              ["/practice/crud/module/", "准备 user 模块"],
-              ["/practice/crud/controller/", "user.controller.ts"],
-              ["/practice/crud/service/", "user.service.ts"],
-            ],
-          },
+          ["/practice/crud/", "CRUD 接口实现"],
           {
             title: "参数校验",
             children: [
