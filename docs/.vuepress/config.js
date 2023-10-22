@@ -27,13 +27,7 @@ module.exports = {
           ["/practice/crud/", "CRUD 接口实现"],
           ["/practice/paramsDto/", "参数校验"],
           ["/practice/statusCode/", "设置状态码"],
-          {
-            title: "统一响应体结构",
-            children: [
-              ["/practice/response/utils/", "封装统一响应工具函数"],
-              ["/practice/response/filters/", "封装统一响应过滤器"],
-            ],
-          },
+          ["/practice/unifyResponse/", "统一响应体结构"],
         ],
       },
       {
