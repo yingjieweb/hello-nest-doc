@@ -26,14 +26,7 @@ module.exports = {
           ["/practice/decorators/", "相关装饰器介绍"],
           ["/practice/crud/", "CRUD 接口实现"],
           ["/practice/paramsDto/", "参数校验"],
-          {
-            title: "设置状态码",
-            children: [
-              ["/practice/statusCode/httpCode/", "通过 @HttpCode() 装饰器设置"],
-              ["/practice/statusCode/res/", "通过 @Res() 参数装饰器设置"],
-              ["/practice/statusCode/diff/", "二者的区别"],
-            ],
-          },
+          ["/practice/statusCode/", "设置状态码"],
           {
             title: "统一响应体结构",
             children: [
