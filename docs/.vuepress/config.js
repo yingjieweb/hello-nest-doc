@@ -25,13 +25,7 @@ module.exports = {
           ["/practice/intro/", "目录结构 & 文件介绍"],
           ["/practice/decorators/", "相关装饰器介绍"],
           ["/practice/crud/", "CRUD 接口实现"],
-          {
-            title: "参数校验",
-            children: [
-              ["/practice/paramsDto/body&query/", "Body、Query 参数校验"],
-              ["/practice/paramsDto/params/", "Params 参数校验"],
-            ],
-          },
+          ["/practice/paramsDto/", "参数校验"],
           {
             title: "设置状态码",
             children: [
