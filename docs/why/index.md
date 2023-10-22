@@ -8,7 +8,7 @@
 
 - 同类型框架中占绝对领先地位（star、下载量、Google 趋势）→ Nest.js 优势
 
-![](/images/npm.png)
-![](/images/trend.png)
+<img :src="$withBase('/images/npm.png')" alt="更新流程">
+<img :src="$withBase('/images/trend.png')" alt="更新流程">
 
 🚩 Nest.js 介绍、HelloWorld、CRUD、Swagger、数据库集成 → ~~原理?~~ 🤷 应用！🙋
