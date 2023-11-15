@@ -4,6 +4,8 @@
 
 基于上述背景，为了让大家有更好的阅读体验，也为了让更多人看到这篇文章，我决定将这篇文章迁移到 [GitHub](https://github.com/yingjieweb/hello-nest-doc)，并开源出来，希望能帮助到更多想学习 Nest.js 的小伙伴。🎉
 
+📚 本站内容主要涵盖：Nest.js 介绍、HelloWorld 项目、CRUD 接口开发、配置 Swagger 文档、数据库集成、项目部署等，具体大纲可查看 <a href="/hello-nest-doc/catalogue/"> 目录 📖 </a>；此外，也会在适当的地方简要提及基础原理，但重点还是在应用和实践上，毕竟要先学会走再学会跑! → 原理? 🤷 应用！🙋。
+
 其实我从 2023 年 9 月 4 日就开始着手做这件事情了，但因为各种原因，一直拖到了 2023 年 10 月 10 日还尚未完成。由于我也是从一名 Nest.js 萌新一点点自学过来的，所以文章不可避免的存在一些不足的地方，但我会持续更新，并修复已发现的问题。如果你发现了文章中存在错误的地方，欢迎提 [issue](https://github.com/yingjieweb/hello-nest-doc/issues) 或者 [PR](https://github.com/yingjieweb/hello-nest-doc/pulls)，我会尽快修复。😁
 
 如果你觉得这篇文章对你有所帮助，[可以点个 Star ⭐️ 支持一下](https://github.com/yingjieweb/hello-nest-doc)，你的支持和认可就是我更新的动力 🤩。上哪能弄一个 Github Starstruck 徽章呢？🤔️

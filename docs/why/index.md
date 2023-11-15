@@ -10,5 +10,3 @@
 
 <img :src="$withBase('/images/npm.png')" alt="npm">
 <img :src="$withBase('/images/trend.png')" alt="google trend">
-
-🚩 本文内容主要涵盖：Nest.js 介绍、HelloWorld 项目、CRUD 接口开发、配置 Swagger 文档、数据库集成、项目部署；此外，也会在适当的地方简要提及基础原理，但重点还是在应用和实践上，毕竟要先学会走再学会跑! → ~~原理?~~ 🤷 应用！🙋。
