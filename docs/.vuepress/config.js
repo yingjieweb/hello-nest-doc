@@ -1,45 +1,45 @@
-module.exports = {
-  title: "Nest.js 入门及实践",
-  description: "A documentation website for Hello Nest.",
-  base: "/hello-nest-doc/", // publicPath
-  themeConfig: {
-    logo: "/images/logo.png",
-    nav: [
+import { defaultTheme } from 'vuepress';
+
+export default {
+  title: 'Nest.js 入门及实践',
+  description: 'A documentation website for Hello Nest.',
+  base: '/hello-nest-doc/', // publicPath
+  theme: defaultTheme({
+    home: '/',
+    logo: '/images/logo.png',
+    repo: 'https://github.com/yingjieweb/hello-nest-doc',
+    navbar: [
       {
-        text: "Author",
-        link: "https://github.com/yingjieweb",
-      },
-      {
-        text: "GitHub",
-        link: "https://github.com/yingjieweb/hello-nest",
+        text: 'Author',
+        link: 'https://github.com/yingjieweb',
       },
     ],
     sidebar: [
-      ["/", "前言"],
-      ["/catalogue/", "目录"],
-      ["/why/", "Why Nest.js"],
-      ["/concept/", "Nest.js 简介"],
+      { text: '前言', link: '/' },
+      { text: '目录', link: '/catalogue/' },
+      { text: 'Why Nest.js', link: '/why/' },
+      { text: 'Nest.js 简介', link: '/concept/' },
       {
-        title: "Hello World!",
+        text: 'Hello World!',
         children: [
-          ["/practice/init/", "脚手架安装 & 项目初始化"],
-          ["/practice/intro/", "目录结构 & 文件介绍"],
-          ["/practice/decorators/", "相关装饰器介绍"],
-          ["/practice/crud/", "CRUD 接口实现"],
-          ["/practice/paramsDto/", "参数校验"],
-          ["/practice/statusCode/", "设置状态码"],
-          ["/practice/unifyResponse/", "统一响应体结构"],
+          { text: '脚手架安装 & 项目初始化', link: '/practice/init/' },
+          { text: '目录结构 & 文件介绍', link: '/practice/intro/' },
+          { text: '相关装饰器介绍', link: '/practice/decorators/' },
+          { text: 'CRUD 接口实现', link: '/practice/crud/' },
+          { text: '参数校验', link: '/practice/paramsDto/' },
+          { text: '设置状态码', link: '/practice/statusCode/' },
+          { text: '统一响应体结构', link: '/practice/unifyResponse/' },
         ],
       },
       {
-        title: "配置 Swagger",
+        text: '配置 Swagger',
         children: [
-          ["/swagger/install/", "安装 & 配置"],
-          ["/swagger/decorators/", "装饰器介绍"],
-          ["/swagger/examples/", "配置示例"],
+          { text: '安装 & 配置', link: '/swagger/install/' },
+          { text: '装饰器介绍', link: '/swagger/decorators/' },
+          { text: '配置示例', link: '/swagger/examples/' },
         ],
       },
-      ["/database/", "数据库集成"],
+      { text: '数据库集成', link: '/database/' },
     ],
-  },
+  }),
 };
