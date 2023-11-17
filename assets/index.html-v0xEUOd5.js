@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"前言","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1700206833000,"contributors":[{"name":"yingjieweb","email":"yingjieweb@qq.com","commits":1}]},"filePathRelative":"index.md"}');export{e as data};
