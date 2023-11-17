@@ -16,6 +16,7 @@ module.exports = {
     ],
     sidebar: [
       ["/", "前言"],
+      ["/catalogue/", "目录"],
       ["/why/", "Why Nest.js"],
       ["/concept/", "Nest.js 介绍"],
       {
