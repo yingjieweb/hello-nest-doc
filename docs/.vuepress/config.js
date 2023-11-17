@@ -18,7 +18,7 @@ module.exports = {
       ["/", "前言"],
       ["/catalogue/", "目录"],
       ["/why/", "Why Nest.js"],
-      ["/concept/", "Nest.js 介绍"],
+      ["/concept/", "Nest.js 简介"],
       {
         title: "Hello World!",
         children: [
