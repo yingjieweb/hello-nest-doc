@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-7effb630","path":"/swagger/examples/","title":"配置示例","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1700236705000,"contributors":[{"name":"yingjieweb","email":"yingjieweb@qq.com","commits":1}]},"filePathRelative":"swagger/examples/index.md"}');export{e as data};
