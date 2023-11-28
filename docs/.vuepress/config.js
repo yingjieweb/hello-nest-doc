@@ -4,7 +4,7 @@ export default {
   title: 'Nest.js 入门及实践',
   description: 'A documentation website for Hello Nest.',
   head: [['link', { rel: 'icon', href: '/hello-nest-doc/images/logo.png' }]],
-  // base: '/hello-nest-doc/', // git pages publicPath not vercel
+  base: "/", // 1.Pages: /hello-nest-doc/ 2.Vercel: /
   theme: defaultTheme({
     home: '/',
     logo: '/images/logo.png',
