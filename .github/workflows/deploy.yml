@@ -15,7 +15,7 @@ jobs:
 
       - name: Set base for GitHub Pages
         run: |
-          sed -i "s#base: \"/\"#base: \"/hello-nest-doc/\"#" docs/.vitepress/config.js
+          sed -i "s#base: \"/\"#base: \"/hello-nest-doc/\"#" docs/.vuepress/config.js
 
       - name: Set up Node.js 18
         uses: actions/setup-node@v2
