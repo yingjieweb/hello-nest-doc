@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-744e7be0","path":"/why/","title":"为什么学习 Nest.js？","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1701137038000,"contributors":[{"name":"yingjieweb","email":"yingjieweb@qq.com","commits":1}]},"filePathRelative":"why/index.md"}');export{e as data};
