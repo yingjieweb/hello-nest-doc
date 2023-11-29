@@ -4,7 +4,7 @@ export default {
   title: 'Nest.js 入门及实践',
   description: 'A documentation website for Hello Nest.',
   head: [['link', { rel: 'icon', href: '/hello-nest-doc/images/logo.png' }]],
-  base: "/", // 1.Pages: /hello-nest-doc/ 2.Vercel: /
+  base: '/', // 1.Pages: /hello-nest-doc/ 2.Vercel: /
   theme: defaultTheme({
     home: '/',
     logo: '/images/logo.png',
@@ -19,7 +19,11 @@ export default {
       { text: '前言', link: '/' },
       { text: '目录', link: '/catalogue/' },
       { text: 'Why Nest.js', link: '/why/' },
-      { text: 'Nest.js 简介', link: '/concept/' },
+      {
+        text: 'Nest.js 简介',
+        link: '/concept/',
+        children: [{ text: '可扩展表现', link: '/concept/expandable/' }],
+      },
       {
         text: 'Hello World!',
         children: [
