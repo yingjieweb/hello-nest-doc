@@ -22,10 +22,12 @@ export default {
       {
         text: 'Nest.js 简介',
         link: '/concept/',
+        collapsible: true,
         children: [{ text: '可扩展表现', link: '/concept/expandable/' }],
       },
       {
         text: 'Hello World!',
+        collapsible: true,
         children: [
           { text: '脚手架安装 & 项目初始化', link: '/practice/init/' },
           { text: '目录结构 & 文件介绍', link: '/practice/intro/' },
@@ -38,6 +40,7 @@ export default {
       },
       {
         text: '配置 Swagger',
+        collapsible: true,
         children: [
           { text: '安装 & 配置', link: '/swagger/install/' },
           { text: '装饰器介绍', link: '/swagger/decorators/' },
