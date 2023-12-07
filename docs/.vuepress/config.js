@@ -2,7 +2,7 @@ import { defaultTheme } from 'vuepress';
 
 export default {
   title: 'Nest.js 入门及实践',
-  description: 'A documentation website for Hello Nest.',
+  description: 'Introduction and Practice of Nest.js',
   head: [['link', { rel: 'icon', href: '/hello-nest-doc/images/logo.png' }]],
   base: '/', // 1.Pages: /hello-nest-doc/ 2.Vercel: /
   theme: defaultTheme({
