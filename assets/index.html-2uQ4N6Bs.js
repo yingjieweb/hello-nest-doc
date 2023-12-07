@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-712e14fc","path":"/introduction/","title":"前言","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1701940202000,"contributors":[{"name":"yingjieweb","email":"yingjieweb@qq.com","commits":1}]},"filePathRelative":"introduction/index.md"}');export{e as data};

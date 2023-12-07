@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-3ad76af9","path":"/swagger/decorators/","title":"装饰器介绍","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1701939830000,"contributors":[{"name":"yingjieweb","email":"yingjieweb@qq.com","commits":1}]},"filePathRelative":"swagger/decorators/index.md"}');export{e as data};
