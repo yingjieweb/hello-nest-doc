@@ -16,7 +16,7 @@ export default {
       },
     ],
     sidebar: [
-      { text: '前言', link: '/' },
+      { text: '前言', link: '/introduction/' },
       { text: '目录', link: '/catalogue/' },
       { text: 'Why Nest.js', link: '/why/' },
       {
