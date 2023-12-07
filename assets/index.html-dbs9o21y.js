@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-66d55c5c","path":"/swagger/install/","title":"安装 & 配置","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1701940646000,"contributors":[{"name":"yingjieweb","email":"yingjieweb@qq.com","commits":1}]},"filePathRelative":"swagger/install/index.md"}');export{e as data};
