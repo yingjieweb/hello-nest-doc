@@ -23,7 +23,10 @@ export default {
         text: 'Nest.js 简介',
         link: '/concept/',
         collapsible: true,
-        children: [{ text: '可扩展表现', link: '/concept/expandable/' }],
+        children: [
+          { text: '可扩展表现', link: '/concept/expandable/' },
+          { text: 'JS 渐进增强', link: '/concept/progressive/' }
+        ],
       },
       {
         text: 'Hello World!',
