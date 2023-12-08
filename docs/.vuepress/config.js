@@ -25,7 +25,8 @@ export default {
         collapsible: true,
         children: [
           { text: '可扩展表现', link: '/concept/expandable/' },
-          { text: 'JS 渐进增强', link: '/concept/progressive/' }
+          { text: 'JS 渐进增强', link: '/concept/progressive/' },
+          { text: '基于 Express', link: '/concept/baseExpress' }
         ],
       },
       {
