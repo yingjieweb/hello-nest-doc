@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5dc302c4","path":"/concept/progressive/","title":"JS 渐进增强","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1720358609000,"contributors":[{"name":"yingjieweb","email":"yingjieweb@qq.com","commits":1}]},"filePathRelative":"concept/progressive/index.md"}');export{e as data};
