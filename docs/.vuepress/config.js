@@ -26,8 +26,8 @@ export default {
         children: [
           { text: '可扩展表现', link: '/concept/expandable/' },
           { text: 'JS 渐进增强', link: '/concept/progressive/' },
-          { text: '基于 Express', link: '/concept/baseExpress' },
-          { text: 'Nest.js 优势', link: '/concept/advantage' },
+          { text: '基于 Express', link: '/concept/baseExpress/' },
+          { text: 'Nest.js 优势', link: '/concept/advantage/' },
         ],
       },
       {
