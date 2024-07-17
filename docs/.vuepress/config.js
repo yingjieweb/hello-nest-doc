@@ -47,9 +47,9 @@ export default {
         text: '配置 Swagger',
         collapsible: true,
         children: [
-          { text: '安装 & 配置', link: '/swagger/install/' },
-          { text: '装饰器介绍', link: '/swagger/decorators/' },
-          { text: '配置示例', link: '/swagger/examples/' },
+          { text: '安装 & 配置', link: '/swagger/install' },
+          { text: '装饰器介绍', link: '/swagger/decorators' },
+          { text: '配置示例', link: '/swagger/examples' },
         ],
       },
       { text: '数据库集成', link: '/database/' },

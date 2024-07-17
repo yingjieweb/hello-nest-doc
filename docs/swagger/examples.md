@@ -68,4 +68,4 @@ export class AddUserDto {
 
 ![](/images/swagger.png)
 
-🚩 当然，如果你觉得 Swagger 界面不符合你风格的话，可以试试 [https://app.apifox.com/](https://app.apifox.com/)
+🚩 当然，如果你觉得 Swagger 界面不符合你风格的话，可以试试：[https://app.apifox.com/](https://app.apifox.com/)
