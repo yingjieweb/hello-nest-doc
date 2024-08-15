@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8ae0ebb8","path":"/concept/advantage/","title":"Nest.js 优势","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1720530721000,"contributors":[{"name":"yingjieweb","email":"yingjieweb@qq.com","commits":1}]},"filePathRelative":"concept/advantage/index.md"}');export{e as data};
