@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-5ccc0570","path":"/concept/baseExpress/","title":"基于 Express","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1720530721000,"contributors":[{"name":"yingjieweb","email":"yingjieweb@qq.com","commits":1}]},"filePathRelative":"concept/baseExpress/index.md"}');export{e as data};

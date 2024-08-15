@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4a2b92ba","path":"/swagger/decorators.html","title":"装饰器介绍","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1721220577000,"contributors":[{"name":"yingjieweb","email":"yingjieweb@qq.com","commits":1}]},"filePathRelative":"swagger/decorators.md"}');export{e as data};

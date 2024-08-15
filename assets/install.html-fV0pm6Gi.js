@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-0991ee08","path":"/swagger/install.html","title":"安装 & 配置","lang":"en-US","frontmatter":{},"headers":[],"git":{"updatedTime":1721220577000,"contributors":[{"name":"yingjieweb","email":"yingjieweb@qq.com","commits":1}]},"filePathRelative":"swagger/install.md"}');export{e as data};
